@@ -1,5 +1,8 @@
 # Integration of DWH and BI systems to videogame online-shop "Par".
 
+> [!NOTE]
+> Due to confidentiality-related reasons, the repository does not contain documentation such as business requirements documents, test cases and S2T mappings.
+
 ## Steps:
 1) Data was created using Kaggle, Python, Jupyter Notebook, SQLite (4 CSV files were generated as a result);
 2) Business case + business requirements were created;
@@ -45,7 +48,6 @@
 
 <h3 align="center">  Dashboard Prototype </h3>
 <p align="center"> <img src="https://github.com/mawag511/DWH-project/blob/main/Screenshots/Dashboard_prototype.png" width="500" height="600"/></p>
-<p align="center"> (For PIX BI screenshots of the final dashboard please check ../Screenshots/PIX BI/) </p>
 
 &nbsp;
 
@@ -60,3 +62,4 @@
 <p align="center"><img src="https://github.com/mawag511/DWH-project/blob/main/Screenshots/dds_dm.png" width="1500" height="570"" /></p>
 <p align="center">MetaDAG:</p>
 <p align="center"><img src="https://github.com/mawag511/DWH-project/blob/main/Screenshots/metadag.png" width="780" height="130"" /></p>
+
