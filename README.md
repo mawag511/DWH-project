@@ -1,4 +1,4 @@
-# Integration of DWH and BI systems to videogame online-shop "Par".
+# Creation of DWH and BI systems for videogame online-shop "Par".
 
 > [!NOTE]
 > Due to confidentiality-related reasons, the repository does not contain documentation such as business requirements documents, test cases and S2T mappings.
